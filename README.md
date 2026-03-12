@@ -1,4 +1,6 @@
-# Correlation and regression for data analysis
+# Date : 10/02/2026
+
+# EXPS-3: Correlation and regression for data analysis
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -59,10 +61,7 @@ plt.legend(['Regression Line','Data points'])
 plt.show()
 ```
 
-
-# Result
-
-
-
 # Output 
 <img width="917" height="444" alt="image" src="https://github.com/user-attachments/assets/681fc4e8-9b59-49bd-977a-82ec4de4fbcf" />
+#Result:
+Thus the program is implemented and Executed Successfully
